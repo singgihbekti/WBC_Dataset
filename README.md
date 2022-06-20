@@ -1,0 +1,2 @@
+# WBC_Dataset
+This repository contains White Blood Cells (WBC) samples. This dataset is produced in Embedded System and Integrated Circuit Design Laboratory, Electrical Engineering Department, Faculty of Engineering, Chulalongkorn University, Bangkok, Thailand.  The images are already labeled by our team from our collaborative researcher from Faculty of Medicine, Chulalongkorn University. This research is reviewed by Review Ethics Committee, Chulalongkorn University.
